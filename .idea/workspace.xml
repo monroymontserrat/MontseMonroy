@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c32a9dc-b30e-4398-a0fe-ed09c020c97c" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/Modelo/Dado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/Lanzar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="5c32a9dc-b30e-4398-a0fe-ed09c020c97c" name="Changes" comment="actualizar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e2valorNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e2valorNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e3Descripcion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e3Descripcion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e4Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e4Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e5Cadenas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e5Cadenas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e6Fechas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/e6Fechas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/Modelo/Dado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/Modelo/Dado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/Lanzar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/Presentacion/Lanzar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -48,9 +42,9 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.e4Array">
-    <configuration name="e2valorNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.Presentacion.e2valorNumero" />
+  <component name="RunManager" selected="Application.Lanzar">
+    <configuration name="Lanzar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.Presentacion.Lanzar" />
       <module name="MontseMonroy" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="e3Descripcion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.Presentacion.e3Descripcion" />
+    <configuration name="e2valorNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.Presentacion.e2valorNumero" />
       <module name="MontseMonroy" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lanzar" />
         <item itemvalue="Application.e4Array" />
         <item itemvalue="Application.e2valorNumero" />
         <item itemvalue="Application.e6Fechas" />
         <item itemvalue="Application.e5Cadenas" />
-        <item itemvalue="Application.e3Descripcion" />
       </list>
     </recent_temporary>
   </component>
@@ -133,10 +127,31 @@
       <option name="presentableId" value="Default" />
       <updated>1701355479395</updated>
     </task>
+    <task id="LOCAL-00001" summary="actualizar">
+      <option name="closed" value="true" />
+      <created>1701365307801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701365307801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="actualizar" />
+    <option name="LAST_COMMIT_MESSAGE" value="actualizar" />
   </component>
 </project>

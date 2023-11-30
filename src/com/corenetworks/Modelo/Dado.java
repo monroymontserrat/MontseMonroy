@@ -41,21 +41,40 @@ public class Dado {
     }
 
 
-    String dibujar1(int num) {
-        return "*";
+    public String dibujar1(int num) {
+        System.out.println("*");
+        return "";
    }
 
-    String dibujar2(int num) {
-        return "*" + "*";
+    public String dibujar2(int num) {
+        System.out.println("**");
+        return "";
     }
 
-    String dibujar3(int num) {
-        return "*" + "*" + "*";
+    public String dibujar3(int num) {
+        System.out.println("***");
+        return "";
     }
 
-    String dibujar4(int num) {
-        return "*" + "*" + "*"+ "*";
+    public String dibujar4(int num) {
+        System.out.println("****");
+        return "";
     }
+
+    public String dibujar5(int num) {
+        System.out.println("*****");
+        return "";
+    }
+
+    public String dibujar6(int num) {
+        System.out.println("******");
+        return "";
+    }
+    public boolean lanzarDado(){
+        System.out.println("El valor del dado es "+dado);
+        return false;
+    }
+
 
 }
 
